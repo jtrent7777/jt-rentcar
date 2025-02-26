@@ -61,7 +61,7 @@
     </section>
     <section id="contact" class="contact">
         <h2>문의하기</h2>
-        <p>전화 문의: <a href="tel:010-1234-5678">010-1234-5678</a></p>
+        <p>전화 문의: <a href="tel:010-1234-5678">010-4209-3601</a></p>
         <p>네이버 톡톡 문의: <a href="https://talk.naver.com/ct/w4h9s1" target="_blank">네이버 톡톡</a></p>
     </section>
     <footer>
