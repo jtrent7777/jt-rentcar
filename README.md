@@ -4,6 +4,17 @@
 <p>문의 전화: 010-4209-3601</p>
 <p><a href="https://talk.naver.com/" target="_blank">네이버 톡톡 상담하기</a></p>
 
+<style>
+    .car-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .car-item {
+        text-align: center;
+    }
+</style>
+
 <div class="car-categories">
     <h3>소형차</h3>
     <div class="car-list">
