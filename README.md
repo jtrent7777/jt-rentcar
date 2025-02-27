@@ -30,7 +30,7 @@
     
     <h3>SUV</h3>
     <div class="car-list">
-        <div class="car-item"><img src="XM3.jpg" alt="XM3"><h3>XM3</h3><p>1일: 50,000원 | 3일: 40,000원 | 7일: 30,000원 | 장기: 500,000원</p></div>
+        <div class="car-item"><img src="XM3.jpg" alt="XM3"><h3>XM3</h3><p>1일: 90,000원 | 3일: 80,000원 | 7일: 70,000원 | 장기: 900,000원</p></div>
         <div class="car-item"><img src="Niro.jpg" alt="니로"><h3>니로</h3><p>1일: 100,000원 | 3일: 90,000원 | 7일: 80,000원 | 장기: 1,000,000원</p></div>
         <div class="car-item"><img src="NQ5.jpg" alt="NQ5 스포티지"><h3>NQ5 스포티지</h3><p>1일: 120,000원 | 3일: 110,000원 | 7일: 100,000원 | 장기: 1,200,000원</p></div>
         <div class="car-item"><img src="Palisade.jpg" alt="펠리세이드"><h3>펠리세이드</h3><p>1일: 130,000원 | 3일: 120,000원 | 7일: 110,000원 | 장기: 1,300,000원</p></div>
@@ -52,6 +52,7 @@
 
 <footer>
     <p><a href="https://goo.gl/maps/d5rZ5JvJqfN2" target="_blank">지도에서 위치 확인</a></p>
+    <iframe width="100%" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18..." allowfullscreen></iframe>
 </footer>
 </body>
 </html>
