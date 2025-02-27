@@ -49,7 +49,7 @@
     
     <h3>수입차</h3>
     <div class="car-list">
-        <div class="car-item"><img src="./images/MiniCountryman.jpg" alt="미니컨트리맨"><h3>미니컨트리맨</h3><p>1일: 110,000원<br>3일: 100,000원<br>7일: 90,000원<br>장기: 1,100,000원</p></div>
+        <div class="car-item"><img src="https://raw.githubusercontent.com/jtrent7777/jt-rentcar/main/Mini%20Countryman.gif" alt="미니컨트리맨"><h3>미니컨트리맨</h3><p>1일: 110,000원<br>3일: 100,000원<br>7일: 90,000원<br>장기: 1,100,000원</p></div>
         <div class="car-item"><img src="./images/Q2.jpg" alt="Q2 35 TDI"><h3>Q2 35 TDI</h3><p>1일: 110,000원<br>3일: 100,000원<br>7일: 90,000원<br>장기: 1,100,000원</p></div>
         <div class="car-item"><img src="./images/A6.jpg" alt="A6 40 TDI"><h3>A6 40 TDI</h3><p>1일: 150,000원<br>3일: 140,000원<br>7일: 130,000원<br>장기: 1,500,000원</p></div>
         <div class="car-item"><img src="./images/420i.jpg" alt="BMW 420i Coupe"><h3>BMW 420i Coupe</h3><p>1일: 180,000원<br>3일: 170,000원<br>7일: 160,000원<br>장기: 1,800,000원</p></div>
