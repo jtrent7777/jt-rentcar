@@ -32,15 +32,15 @@
     </nav>
     <section id="cars" class="car-list">
         <div class="car-item">
-            <img src="/mnt/data/file-YSQko9cU7tgbyiyUa6Yei2" alt="NQ5 스포티지">
-            <h3>NQ5 스포티지</h3>
-            <p>1일 렌트: 120,000원</p>
-            <p>3일 렌트: 330,000원</p>
-            <p>7일 렌트: 750,000원</p>
+            <img src="https://raw.githubusercontent.com/jtrent7777/jt-rentcar/main/Ray-test001.jpg" alt="레이">
+            <h3>레이</h3>
+            <p>1일 렌트: 90,000원</p>
+            <p>3일 렌트: 250,000원</p>
+            <p>7일 렌트: 600,000원</p>
             <p>장기 렌트: 문의</p>
         </div>
         <div class="car-item">
-            <img src="/mnt/data/file-AarXbUqanaqKuXNfN9BCkK" alt="펠리세이드">
+            <img src="https://raw.githubusercontent.com/jtrent7777/jt-rentcar/main/palisade.jpg" alt="펠리세이드">
             <h3>펠리세이드</h3>
             <p>1일 렌트: 130,000원</p>
             <p>3일 렌트: 360,000원</p>
@@ -48,7 +48,7 @@
             <p>장기 렌트: 문의</p>
         </div>
         <div class="car-item">
-            <img src="/mnt/data/file-TsmNcCJPnZKT2ydM2MzPCR" alt="미니 컨트리맨">
+            <img src="https://raw.githubusercontent.com/jtrent7777/jt-rentcar/main/mini-countryman.jpg" alt="미니 컨트리맨">
             <h3>미니 컨트리맨</h3>
             <p>1일 렌트: 110,000원</p>
             <p>3일 렌트: 300,000원</p>
@@ -56,35 +56,11 @@
             <p>장기 렌트: 문의</p>
         </div>
         <div class="car-item">
-            <img src="/mnt/data/file-5DazB3k4u7hwJgUZQmQgxf" alt="A6 40 TDI">
+            <img src="https://raw.githubusercontent.com/jtrent7777/jt-rentcar/main/audi-a6.jpg" alt="A6 40 TDI">
             <h3>A6 40 TDI</h3>
             <p>1일 렌트: 150,000원</p>
             <p>3일 렌트: 420,000원</p>
             <p>7일 렌트: 980,000원</p>
-            <p>장기 렌트: 문의</p>
-        </div>
-        <div class="car-item">
-            <img src="/mnt/data/file-Cxe5xQ1Ha9HJcMC73Yb4XF" alt="Q2 35 TDI Premium">
-            <h3>Q2 35 TDI Premium</h3>
-            <p>1일 렌트: 110,000원</p>
-            <p>3일 렌트: 300,000원</p>
-            <p>7일 렌트: 700,000원</p>
-            <p>장기 렌트: 문의</p>
-        </div>
-        <div class="car-item">
-            <img src="/mnt/data/file-W841y2J6DZ6VzpR3vknnsh" alt="420i Coupe">
-            <h3>420i Coupe</h3>
-            <p>1일 렌트: 180,000원</p>
-            <p>3일 렌트: 500,000원</p>
-            <p>7일 렌트: 1,150,000원</p>
-            <p>장기 렌트: 문의</p>
-        </div>
-        <div class="car-item">
-            <img src="/mnt/data/file-CEgiqeGgddFPHegMXHX76q" alt="E200 아방가르드">
-            <h3>E200 아방가르드</h3>
-            <p>1일 렌트: 220,000원</p>
-            <p>3일 렌트: 600,000원</p>
-            <p>7일 렌트: 1,350,000원</p>
             <p>장기 렌트: 문의</p>
         </div>
     </section>
